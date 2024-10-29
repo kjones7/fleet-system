@@ -1,0 +1,22 @@
+# Add patterns to ignore here, one per line
+# Example:
+# *.log
+# tmp/
+LICENSE
+THIRD-PARTY-LICENSES
+README.md
+.github/
+.git/
+.idea/
+api/composer.json
+api/composer.lock
+api/symfony.lock
+api/README.md
+api/migrations/
+api/tests/
+public/
+pwa/tests/
+pwa/README.md
+pwa/package.json
+pwa/playwright.config.js
+
